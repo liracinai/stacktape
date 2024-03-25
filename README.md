@@ -14,35 +14,35 @@ Stacktape makes DevOps simple, allowing developers to deploy and run full-stack 
 
 #### Option 1 - PaaS 1.0
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :white_check_mark: Easy to use
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :relieved: Easy to use
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :white_check_mark: Great Dev Experience
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :relieved: Great Dev Experience
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :x: Expensive
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :rage: Expensive
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :x: Limited capabilities & flexibility
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :rage: Limited capabilities & flexibility
 
 #### Option 2 - In-house DevOps team
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :white_check_mark: Flexible
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :relieved: Flexible
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :white_check_mark: Unlimited capabilities
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :relieved: Unlimited capabilities
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :x: Requires hiring DevOps experts
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :rage: Requires hiring DevOps experts
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :x: Long time to production
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :rage: Long time to production
 
 ### After (with Stacktape)
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :white_check_mark: Usable by developers
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :heart_eyes: Usable by developers
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :white_check_mark: Great Dev Experience
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :heart_eyes: Great Dev Experience
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :white_check_mark: Cost efficient
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :heart_eyes: Cost efficient
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :white_check_mark: Flexible & Powerful
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :heart_eyes: Flexible & Powerful
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :white_check_mark: Up to $100,000 in free [AWS Activate credits](https://aws.amazon.com/activate/activate-landing/)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; :heart_eyes: Up to $100,000 in free [AWS Activate credits](https://aws.amazon.com/activate/activate-landing/)
 
 ## Contents
 
